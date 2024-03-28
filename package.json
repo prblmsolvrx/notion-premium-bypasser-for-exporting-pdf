@@ -1,0 +1,33 @@
+{
+  "name": "notion-pdf-export",
+  "version": "1.3.0",
+  "description": "A tool to allow batch PDF export for free Notion users. Convert exported HTML files to PDFs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshh123/notion-pdf-export.git"
+  },
+  "keywords": [
+    "notion",
+    "markdown",
+    "pdf",
+    "export",
+    "conversion",
+    "batch"
+  ],
+  "author": {
+    "name": "Ganesh H",
+    "url": "https://ganeshh123.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganeshh123/notion-pdf-export/issues"
+  },
+  "homepage": "https://github.com/ganeshh123/notion-pdf-export#readme",
+  "dependencies": {},
+  "bin": "index.js"
+}
