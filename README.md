@@ -130,5 +130,3 @@ If you wish to compile for macOS on Windows or vice versa, you can do so using t
     ./npe
     ```
     This can be obtained from `mac_script.sh` or found inside `/dist/macos` This script is needed to set the current directory before the `npe` executable is run.
-
-## Credits
